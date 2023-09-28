@@ -1,0 +1,9 @@
+{
+    "java.project.sourcePaths": [
+        "Password Generator/src"
+    ],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
